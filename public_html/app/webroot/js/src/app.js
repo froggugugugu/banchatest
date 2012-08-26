@@ -28,8 +28,8 @@ Bancha.onModelReady('User',function(){
 
         // 使用コントローラー定義
         controllers: [
-        'Main',
-        'Usergrid'
+        'Main'//,
+        //'Usergrid'
         ],
 
         // アプリケーション起動時イベントハンドラ

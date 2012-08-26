@@ -30,7 +30,10 @@ Ext.define('BE.view.Viewport', {
         //html: 'hoge'
         xtype: 'usergrid'
 
-    }]
+    }/*,{
+        region: 'east',
+        html: 'hoge'
+    }*/]
 
     // }}}
 

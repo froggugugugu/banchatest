@@ -3,7 +3,7 @@
  * @class BE.store.User
  * desctription
  */
-Ext.define('BE.store.User', {
+/*Ext.define('BE.store.User', {
     // {{{ extend
 
     extend : 'Ext.data.Store',
@@ -15,5 +15,5 @@ Ext.define('BE.store.User', {
     autoLoad: true
 
     // }}}
-});
+});*/
 // }}}

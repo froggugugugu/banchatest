@@ -1,0 +1,12 @@
+.icon-add {
+    background-image: url(../icons/add.png) ! important;
+}
+.icon-delete: {
+    background-image: url('../icons/delete.png'); 
+}
+.icon-save {
+    background-image: url('../icons/disk.png'); 
+}
+.icon-reset {
+    background-image: url('../icons/arrow_undo.png'); 
+}
